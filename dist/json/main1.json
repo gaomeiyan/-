@@ -1,0 +1,12 @@
+[{"title":"魅族手机","img":"images/bigbox.jpg",
+"child1":[{"id":73,"img":"images/center1.png","title1":"热卖","title2":"魅族16px","title3":"骁龙845 屏幕下指纹","price":"￥2698"},
+{"id":74,"img":"images/center2.png","title1":"热卖","title2":"魅族16px","title3":"骁龙710 轻奢旗舰","price":"￥2098"}],
+"child2":[
+{"id":65,"img":"images/bottom/headset1.png","title1":"魅族X8","title2":"人脸指纹双解锁&nbsp;旗舰双摄","price":"￥1598"},
+{"id":66,"img":"images/bottom/headset2.png","title1":"魅族V8高配版","title2":"1200万+500万高清双摄","price":"￥1098"},
+{"id":67,"img":"images/bottom/headset3.png","title1":"魅族15","title2":"2000万暗光双摄AI智能美颜","price":"￥1998"},
+{"id":68,"img":"images/bottom/headset4.png","title1":"魅族E3","title2":"骁龙636处理器全系6G大运存","price":"￥1799"},
+{"id":69,"img":"images/bottom/headset5.png","title1":"魅族 16th Plus","title2":"AI双摄光学防抖","price":"￥3199"},
+{"id":70,"img":"images/bottom/headset6.png","title1":"魅族V8标配版","title2":"5.7英寸HD+全面屏","price":"￥799"},
+{"id":71,"img":"images/bottom/headset4.png","title1":"魅族M15","title2":"2000万 AI智能美颜","price":"￥1399"},
+{"id":72,"img":"images/bottom/headset5.png","title1":"魅族15 Plus","title2":"双摄全面屏 游戏长续航","price":"￥2498"}]}]
